@@ -1,0 +1,76 @@
+Partlist exported from F:/Projekty/Finished_to_be_published/Plasma_speaker/Github/Plasma speaker.sch at 29.07.2018 18:45
+
+Part  Value            Device                  Package                 Description                                                     
+B1    <6A              RECTIFIER-SKB32         SKB32                   Rectifier                                                       
+C1    4700u/35         CPOL-EUE7.5-18          E7,5-18                 POLARIZED CAPACITOR, European symbol                            
+C2    4700u/35         CPOL-EUE7.5-18          E7,5-18                 POLARIZED CAPACITOR, European symbol                            
+C3    100n             C-EU025-025X050         C025-025X050            CAPACITOR, European symbol                                      
+C4    100u/16V         CPOL-EUE2.5-5           E2,5-5                  POLARIZED CAPACITOR, European symbol                            
+C5    100n             C-EU025-025X050         C025-025X050            CAPACITOR, European symbol                                      
+C6    100n             C-EU025-025X050         C025-025X050            CAPACITOR, European symbol                                      
+C7    100u/16V         CPOL-EUE2.5-5           E2,5-5                  POLARIZED CAPACITOR, European symbol                            
+C8    47n/63V          C-EU050-025X075         C050-025X075            CAPACITOR, European symbol                                      
+C9    100n/63V         C-EU050-025X075         C050-025X075            CAPACITOR, European symbol                                      
+C10   100n/63V         C-EU050-025X075         C050-025X075            CAPACITOR, European symbol                                      
+C11   4,7u/100V        C-EU275-093X316         C275-093X316            CAPACITOR, European symbol                                      
+C12   4,7u/100V        C-EU275-093X316         C275-093X316            CAPACITOR, European symbol                                      
+C13   4,7u/100V        C-EU275-093X316         C275-093X316            CAPACITOR, European symbol                                      
+C14   470n/63V         C-EU050-050X075         C050-050X075            CAPACITOR, European symbol                                      
+C15   100n             C-EU025-025X050         C025-025X050            CAPACITOR, European symbol                                      
+C16   100u/16V         CPOL-EUE2.5-5           E2,5-5                  POLARIZED CAPACITOR, European symbol                            
+C17   470n/63V         C-EU050-050X075         C050-050X075            CAPACITOR, European symbol                                      
+CON1  ARC/2            AK300/2                 AK300/2                 CONNECTOR                                                       
+CON2  ARC/2            AK300/2                 AK300/2                 CONNECTOR                                                       
+CON3  ARC/2            AK300/2                 AK300/2                 CONNECTOR                                                       
+CON4  ARC/2            AK300/2                 AK300/2                 CONNECTOR                                                       
+D1    1N4148           1N4148DO35-7            DO35-7                  DIODE                                                           
+D2    MUR860           BYT08P                  TO220ACS                DIODE                                                           
+D3    MUR420           BY203                   SGA-10                  DIODE                                                           
+D4    1N4007           1N4004                  DO41-10                 DIODE                                                           
+D5    1N4148           1N4148DO35-7            DO35-7                  DIODE                                                           
+D6    1N4148           1N4148DO35-7            DO35-7                  DIODE                                                           
+F1    <7A              SHK20L                  SHK20L                  FUSE HOLDER 5 x 20 mm, SH contact, SHH1 Schukat, E1073 Buerklin 
+IC1   7812             7812TV                  TO220V                  Positive VOLTAGE REGULATOR                                      
+IC2   TL494            TL494CN                 DIL16                   SWITCHMODE Pulse Width Modulation Control Circuit               
+IC3   TL081P           TL081P                  DIL08                   OP AMP                                                          
+IC4   LM3914N          LM3914N                 DIL18                   LED DRIVER                                                      
+J1    GOLDPIN/2/F      F-1X02-SIP-100-40Y      SIP-100-02-40Y          FEMALE HEADER                                                   
+J2    GOLDPIN/2/F      F-1X02-SIP-100-40Y      SIP-100-02-40Y          FEMALE HEADER                                                   
+J3    GOLDPIN/2/M/90   F-1X02-KK-4455-A02      KK-4455-A02             FEMALE HEADER                                                   
+J4    GOLDPIN/2/M/90   F-1X02-KK-4455-A02      KK-4455-A02             FEMALE HEADER                                                   
+J5    GOLPIN/2         J-02-SIP-100-40Y        SIP-100-02-40Y          HEADER JACK PINS                                                
+LED1  YELLOW           LED5MM                  LED5MM                  LED                                                             
+LED2  GREEN            LED5MM                  LED5MM                  LED                                                             
+LED3  RED              LED5MM                  LED5MM                  LED                                                             
+LED4  YELLOW           LED5MM                  LED5MM                  LED                                                             
+LED5  YELLOW           LED5MM                  LED5MM                  LED                                                             
+LED6  GREEN            LED5MM                  LED5MM                  LED                                                             
+LED7  GREEN            LED5MM                  LED5MM                  LED                                                             
+LED8  RED              LED5MM                  LED5MM                  LED                                                             
+LED9  YELLOW           LED5MM                  LED5MM                  LED                                                             
+LED10 GREEN            LED5MM                  LED5MM                  LED                                                             
+LED11 GREEN            LED5MM                  LED5MM                  LED                                                             
+LED12 GREEN            LED5MM                  LED5MM                  LED                                                             
+P1    GOLDPIN/2        P-02-SIP-100-40Y        SIP-100-02-40Y          HEADER PLUG PINS                                                
+PR1   10k              TRIM_EU-CA6V            CA6V                    POTENTIOMETER                                                   
+PR2   10k              3RP/1610N               3RP/1610N               16mm Potentiometer one level                                    
+PR3   22k              3RP/1610N               3RP/1610N               16mm Potentiometer one level                                    
+PR4   470k             TRIM_EU-CA6V            CA6V                    POTENTIOMETER                                                   
+Q1    BC327            BC327-25-PNP-TO92-EBC   TO92-EBC                PNP Transistror                                                 
+Q2    IRFP260          IRFP240                 TO247BV                 HEXFET Power MosFet                                             
+R1    1,8k             R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R2    1k               R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R3    100-270/2W       R-EU_0309/12            0309/12                 RESISTOR, European symbol                                       
+R4    510R             R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R5    1k               R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R6    33R              R-EU_0207/10            0207/10                 RESISTOR, European symbol                                       
+R7    430k             R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R8    10k              R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R9    1k               R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R10   4,7k             R-EU_0204/7             0204/7                  RESISTOR, European symbol                                       
+R11   100/1W           R-EU_0411/15            0411/15                 RESISTOR, European symbol                                       
+RAD1  TO3              RADIATOR-A              RADIATOR                                                                                
+S1    ROCKERSWITCH     ROCKERSWITCH            ROCKER                                                                                  
+SOC1  STEREOJACKSOCKET PICAXE_STEREOJACKSOCKET PICAXE_STEREOJACKSOCKET                                                                 
+T1    IRF9540          IRF9530                 TO220                   P-Channel Enhancement MOSFET (HEXFET); -100V; -12A; 0,3Ohm      
+TR1   22k NTC          NTC640                  P640                    PHILIPS NTC                                                     
